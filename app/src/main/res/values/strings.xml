@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OverDraw</string>
+    <string name="action_settings">Settings</string>
+    <string name="example_of_removing_unneeded_background">Example of removing unneeded background</string>
+    <string name="example_of_flattening_views">Example of flattening views</string>
+    <string name="example_of_reducing_transparency">Example of reducing transparency</string>
+    <string name="layout_with_unwanted_backgrounds">Layout with unwanted backgrounds</string>
+    <string name="app_icon">App icon</string>
+    <string name="layout_without_unwanted_backgrounds">Layout without unwanted backgrounds</string>
+    <string name="layout_with_unwanted_view_hierarchy">Layout with unwanted view hierarchy</string>
+    <string name="layout_without_unwanted_view_hierarchy">Layout without unwanted view hierarchy</string>
+    <string name="text_view_with_alpha_background">TextView with alpha background</string>
+    <string name="text_view_without_alpha_background">TextView without alpha background</string>
+</resources>
